@@ -16,7 +16,7 @@
     "google-protobuf": "^3.14.0"
   },
   "devDependencies": {
-    "@types/google-protobuf": "^3.7.4",
+    "@types/google-protobuf": "^3.15.12",
     "concurrently": "^5.3.0",
     "ts-loader": "^8.0.14",
     "ts-protoc-gen": "0.14.0",
