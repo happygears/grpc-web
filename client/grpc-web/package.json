@@ -36,7 +36,7 @@
     "browser-headers": "^0.4.1"
   },
   "devDependencies": {
-    "@types/google-protobuf": "^3.7.4",
+    "@types/google-protobuf": "^3.15.12",
     "@types/node": "^14.14.22",
     "google-protobuf": "^3.14.0",
     "ts-loader": "^8.0.14",
